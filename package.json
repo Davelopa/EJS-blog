@@ -15,5 +15,7 @@
     "express": "^4.16.3",
     "lodash": "^4.17.21"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
